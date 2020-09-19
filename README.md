@@ -16,7 +16,7 @@ python3 data.py
 ### Output file
 - random_number.txt
 - equation.txt
-- data.txt
+- data.jpg
 
 ### DOI
 [![DOI](https://zenodo.org/badge/296792546.svg)](https://zenodo.org/badge/latestdoi/296792546)
