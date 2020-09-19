@@ -12,3 +12,6 @@ python3 random_number.py
 python3 equation.py 
 python3 data.py
 ```
+
+### DOI
+[![DOI](https://zenodo.org/badge/296792546.svg)](https://zenodo.org/badge/latestdoi/296792546)
