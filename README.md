@@ -6,7 +6,7 @@
 - Visualize the results 
 
 
-### Run code
+### Run code:
 ``` 
 python3 random_number.py
 python3 equation.py 
