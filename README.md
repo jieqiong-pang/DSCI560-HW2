@@ -5,18 +5,18 @@
 - Generate new numbers from the original 1000 using the equation y=3x+6 
 - Visualize the results 
 
-### Script file and Jupyther notebook file
+### Script files and Jupyther notebook file
 - random_number.py
 - equation.py 
 - data.py
 - hw2.ipynb
 
-### Output file
+### Output files
 - random_number.txt
 - equation.txt
 - data.jpg
 
-### Run code in command
+### Run code in command line and follow this order
 ``` 
 python3 random_number.py
 python3 equation.py 
