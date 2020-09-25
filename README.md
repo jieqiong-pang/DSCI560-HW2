@@ -26,3 +26,5 @@ python3 data.py
 ### DOI
 [![DOI](https://zenodo.org/badge/296792546.svg)](https://zenodo.org/badge/latestdoi/296792546)
 
+### Visualization result
+![data](https://user-images.githubusercontent.com/56018075/94214214-c9efc800-fe8d-11ea-9611-30e2515a2383.jpg)
