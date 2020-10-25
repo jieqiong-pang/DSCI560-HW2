@@ -35,4 +35,26 @@ python3 data.py
 ## Create a virtual environment for my GitHub project and execute it step by step
 
 ### step 1: Clone hw2 from GitHub
-- `git clone `
+- `git clone https://github.com/jieqiong-pang/DSCI560-HW2.git`
+
+### step 2: Create a blank virtual environment and name it dsci560H4 in this clone file
+- `pip install virtualenv`
+- `virtualenv dsci560H4`
+
+### Activate the environment and install ONLY the dependencies to execute the random number generator script of Homework 2
+- activate the environment `source dsci560H4/bin/activate`
+- don't need to install any dependency for number generator script becasue it doesn't use any extra package
+
+### Running the script for the number generator
+- `python3 random_number.py`
+
+### Compare the packages that I manually installed versus the dependency list I extracted
+- before install, `pip freeze > requirements.txt`, the requirements.txt is empty
+- after install, `pip install numpy`, `pip install matplotlib`, `pip freeze > requirements.txt`, the following has been added to the requirements.txt file
+
+### Add the environment folder to a “.gitignore” file 
+- create “.gitignore” file using command line `touch .gitignore`
+- edit “.gitignore” file using command line `vim .gitignore`
+
+### Upload your extracted dependencies 
+- use GitHub Descktop application to upload extraced dependencies to github
