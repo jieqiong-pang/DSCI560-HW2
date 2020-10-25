@@ -33,3 +33,6 @@ python3 data.py
 # DSCI560-HW4
 
 ## Create a virtual environment for my GitHub project and execute it step by step
+
+### step 1: Clone hw2 from GitHub
+- `git clone `
