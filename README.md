@@ -47,6 +47,8 @@ python3 data.py
 - activate the environment `source dsci560H4/bin/activate`
 - don't need to install any dependency for number generator script becasue it doesn't use any extra package
 
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture2.png)
+
 ### step 4: Running the script for the number generator
 - `python3 random_number.py`
 
