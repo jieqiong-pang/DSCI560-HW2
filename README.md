@@ -52,6 +52,8 @@ python3 data.py
 ### step 4: Running the script for the number generator
 - `python3 random_number.py`
 
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture3.png)
+
 ### step 5: Compare the packages that I manually installed versus the dependency list I extracted
 - before install, `pip freeze > requirements.txt`, the requirements.txt is empty
 - after install, `pip install numpy`, `pip install matplotlib`, `pip freeze > requirements.txt`, the following has been added to the requirements.txt file
