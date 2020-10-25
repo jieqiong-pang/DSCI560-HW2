@@ -60,6 +60,7 @@ python3 data.py
 
 ![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture4.png)
 ![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture5.png)
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture7.png)
 
 ### step 6: Add the environment folder to a “.gitignore” file 
 - create “.gitignore” file using command line `touch .gitignore`
