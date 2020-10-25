@@ -58,6 +58,9 @@ python3 data.py
 - before install, `pip freeze > requirements.txt`, the requirements.txt is empty
 - after install, `pip install numpy`, `pip install matplotlib`, `pip freeze > requirements.txt`, the following has been added to the requirements.txt file
 
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture4.png)
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture5.png)
+
 ### step 6: Add the environment folder to a “.gitignore” file 
 - create “.gitignore” file using command line `touch .gitignore`
 - edit “.gitignore” file using command line `vim .gitignore`
