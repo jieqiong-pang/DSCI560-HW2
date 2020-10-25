@@ -70,3 +70,5 @@ python3 data.py
 
 ### step 7: Upload your extracted dependencies 
 - use GitHub Descktop application to upload extracted dependencies to github
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jieqiong-pang/DSCI560-HW2.git/master?filepath=hw2.ipynb)
