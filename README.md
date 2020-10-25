@@ -57,4 +57,4 @@ python3 data.py
 - edit “.gitignore” file using command line `vim .gitignore`
 
 ### Upload your extracted dependencies 
-- use GitHub Descktop application to upload extraced dependencies to github
+- use GitHub Descktop application to upload extracted dependencies to github
