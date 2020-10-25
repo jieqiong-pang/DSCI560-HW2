@@ -41,7 +41,7 @@ python3 data.py
 - `pip install virtualenv`
 - `virtualenv dsci560H4`
 
-![data](https://user-images.githubusercontent.com/56018075/97099766-e8421280-1649-11eb-8b80-e47f8b6f3e86.png)
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture1.png)
 
 ### step 3: Activate the environment and install ONLY the dependencies to execute the random number generator script of Homework 2
 - activate the environment `source dsci560H4/bin/activate`
