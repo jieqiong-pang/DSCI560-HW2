@@ -28,3 +28,8 @@ python3 data.py
 
 ### Visualization result
 ![data](https://user-images.githubusercontent.com/56018075/94214214-c9efc800-fe8d-11ea-9611-30e2515a2383.jpg)
+
+
+# DSCI560-HW4
+
+## Create a virtual environment for my GitHub project and execute it step by step
