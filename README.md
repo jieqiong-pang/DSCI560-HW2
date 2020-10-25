@@ -65,5 +65,7 @@ python3 data.py
 - create “.gitignore” file using command line `touch .gitignore`
 - edit “.gitignore” file using command line `vim .gitignore`
 
+![data](https://github.com/jieqiong-pang/DSCI560-HW2/blob/master/Picture6.png)
+
 ### step 7: Upload your extracted dependencies 
 - use GitHub Descktop application to upload extracted dependencies to github
