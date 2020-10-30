@@ -40,7 +40,7 @@
 - use GitHub Descktop application to upload extracted dependencies to github
 
 ### Binder badge to notebook
-[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jieqiong-pang/DSCI560-HW2/master?filepath=hw2.ipynb))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jieqiong-pang/DSCI560-HW2/master?filepath=hw2.ipynb)
 
 
 # DSCI560-HW2
